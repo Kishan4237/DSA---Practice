@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // let names = ["kishan","chandan","jatan","anil","sunil"];
+
+      // console.log(names[0]);
+      // console.log(names[1]);
+      // console.log(names[2]);
+      // console.log(names[3]);
+      // console.log(names[4]);
+
+      // console.log(names[0]);
+      // console.log(names[1]);
+      // console.log(names[2]);
+      // console.log(names[3]);
+      // console.log(names[4]);
+
+      // let names = ["kishan","chandan","jatan","anil","sunil"];
+      // let name1 = names[0];
+      // let name2 = names[1];
+      // let name3 = names[2];
+      // let name4 = names[3];
+      // let name5 = names[4];
+      // console.log(name1)
+      // console.log(name2)
+      // console.log(name3)
+      // console.log(name4)
+      // console.log(name5)
+
+      //    let names = ["kishan","sharvanand","jatan","anil","sunil"];         //destructring
+      //    let [name1,name2,name3,name4,name5] = names
+      //    console.log(name1);
+      //     console.log(name2);
+      //      console.log(name3);
+      //       console.log(name4);
+      //       console.log(name5);
+
+      //    let names = ["kishan","sharvanand","jatan","anil","sunil"];
+      //    let [name1,name2,name4] = names
+      //    console.log(name1);
+      //     console.log(name2);
+      //     //  console.log(name3);
+      //       console.log(name4);
+      //     //   console.log(name5);
+
+      //    let names = ["kishan","sharvanand","jatan","anil"];
+      //    let [,,name3,name4] = names
+      //    console.log(name3);
+      //     console.log(name4);
+      //     //   console.log(name3);
+
+      //     let names = ["kishan","sharvanand","jatan","anil"];
+      //    let [,name3] = names
+      //    console.log(name3);
+      // console.log(name4);
+      // console.log(name3);
+
+      // let Student = {
+      //     name : "kishan",
+      //     lastname : "kumar",
+      //     age : 22
+      // }
+      // let name1 = Student.name;
+      // let lastname1 = Student.lastname;
+      // let age1 = Student.age;
+      // console.log(name1);
+      // console.log(lastname1);
+      // console.log(age1);
+
+      //      let Student = {
+      //     name : "kishan",
+      //     lastname : "kumar",
+      //     age : 22
+      // }
+      // let {name,lastname,age } = Student;
+      // console.log(name);
+      // console.log(lastname);
+      // console.log(age);
+
+      //      let Student = {
+      //     name : "kishan",
+      //     lastname : "kumar",
+      //     age : 22
+      // }
+      // let {name:name1,lastname:lastname1,age:age1 } = Student;       //change the variable name and his name is aliyas
+      // console.log(name1);
+      // console.log(lastname1);
+      // console.log(age1);
+
+      let Student = {
+        name: "kishan",
+        lastname: "kumar",
+        age: 22,
+        hobby: {
+          watching: "movie",
+          reading: "book",
+        },
+      };
+      let { name, lastname, age, hobby } = Student; //change the variable name and his name is aliyas
+      let { watching, reading } = hobby;
+      console.log(name);
+      console.log(lastname);
+      console.log(age);
+      console.log(hobby);
+      console.log(watching);
+      console.log(reading);
+    </script>
+  </body>
+</html>
