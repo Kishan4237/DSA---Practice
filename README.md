@@ -20,6 +20,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/Kishan4237/DSA---Practice/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Kishan4237/DSA---Practice/tree/master/0412-fizz-buzz) |
+| [0856-score-of-parentheses](https://github.com/Kishan4237/DSA---Practice/tree/master/0856-score-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kishan4237/DSA---Practice/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Dynamic Programming
@@ -57,4 +58,12 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Kishan4237/DSA---Practice/tree/master/0412-fizz-buzz) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Kishan4237/DSA---Practice/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Kishan4237/DSA---Practice/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
