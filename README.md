@@ -16,6 +16,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Kishan4237/DSA---Practice/tree/master/0043-multiply-strings) |
 | [0165-compare-version-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/Kishan4237/DSA---Practice/tree/master/0409-longest-palindrome) |
@@ -50,6 +51,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Kishan4237/DSA---Practice/tree/master/0043-multiply-strings) |
 | [0396-rotate-function](https://github.com/Kishan4237/DSA---Practice/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Kishan4237/DSA---Practice/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0728-self-dividing-numbers) |
@@ -57,6 +59,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Kishan4237/DSA---Practice/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/Kishan4237/DSA---Practice/tree/master/0412-fizz-buzz) |
 ## Stack
 |  |
