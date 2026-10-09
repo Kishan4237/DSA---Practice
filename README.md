@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0088-merge-sorted-array) |
 | [0396-rotate-function](https://github.com/Kishan4237/DSA---Practice/tree/master/0396-rotate-function) |
 | [0525-contiguous-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
@@ -48,6 +49,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kishan4237/DSA---Practice/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -78,5 +80,6 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0088-merge-sorted-array) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
