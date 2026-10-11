@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Kishan4237/DSA---Practice/tree/master/0043-multiply-strings) |
+| [0390-elimination-game](https://github.com/Kishan4237/DSA---Practice/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Kishan4237/DSA---Practice/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Kishan4237/DSA---Practice/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
@@ -93,4 +94,8 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+## Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/Kishan4237/DSA---Practice/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
