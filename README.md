@@ -10,6 +10,7 @@
 | [0525-contiguous-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kishan4237/DSA---Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
@@ -91,10 +92,12 @@
 | [0049-group-anagrams](https://github.com/Kishan4237/DSA---Practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0088-merge-sorted-array) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kishan4237/DSA---Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kishan4237/DSA---Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
 |  |
