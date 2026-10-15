@@ -12,6 +12,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kishan4237/DSA---Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kishan4237/DSA---Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0409-longest-palindrome](https://github.com/Kishan4237/DSA---Practice/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0525-contiguous-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kishan4237/DSA---Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
 |  |
 | ------- |
@@ -115,4 +117,12 @@
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Kishan4237/DSA---Practice/tree/master/0398-random-pick-index) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kishan4237/DSA---Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kishan4237/DSA---Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
