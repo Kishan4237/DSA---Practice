@@ -7,6 +7,7 @@
 | [0045-jump-game-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Kishan4237/DSA---Practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0088-merge-sorted-array) |
+| [0313-super-ugly-number](https://github.com/Kishan4237/DSA---Practice/tree/master/0313-super-ugly-number) |
 | [0396-rotate-function](https://github.com/Kishan4237/DSA---Practice/tree/master/0396-rotate-function) |
 | [0525-contiguous-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0045-jump-game-ii) |
+| [0313-super-ugly-number](https://github.com/Kishan4237/DSA---Practice/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/Kishan4237/DSA---Practice/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Kishan4237/DSA---Practice/tree/master/0396-rotate-function) |
 | [0553-optimal-division](https://github.com/Kishan4237/DSA---Practice/tree/master/0553-optimal-division) |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Kishan4237/DSA---Practice/tree/master/0043-multiply-strings) |
+| [0313-super-ugly-number](https://github.com/Kishan4237/DSA---Practice/tree/master/0313-super-ugly-number) |
 | [0390-elimination-game](https://github.com/Kishan4237/DSA---Practice/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Kishan4237/DSA---Practice/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Kishan4237/DSA---Practice/tree/master/0398-random-pick-index) |
