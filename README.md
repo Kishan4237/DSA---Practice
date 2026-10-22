@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0088-merge-sorted-array) |
 | [0313-super-ugly-number](https://github.com/Kishan4237/DSA---Practice/tree/master/0313-super-ugly-number) |
 | [0396-rotate-function](https://github.com/Kishan4237/DSA---Practice/tree/master/0396-rotate-function) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0525-contiguous-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Kishan4237/DSA---Practice/tree/master/0553-optimal-division) |
@@ -79,6 +80,7 @@
 | [0396-rotate-function](https://github.com/Kishan4237/DSA---Practice/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Kishan4237/DSA---Practice/tree/master/0398-random-pick-index) |
 | [0412-fizz-buzz](https://github.com/Kishan4237/DSA---Practice/tree/master/0412-fizz-buzz) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/Kishan4237/DSA---Practice/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Kishan4237/DSA---Practice/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/Kishan4237/DSA---Practice/tree/master/0537-complex-number-multiplication) |
@@ -107,6 +109,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/Kishan4237/DSA---Practice/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0088-merge-sorted-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kishan4237/DSA---Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/2333-minimum-sum-of-squared-difference) |
