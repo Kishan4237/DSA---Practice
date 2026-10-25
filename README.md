@@ -89,6 +89,7 @@
 | [0537-complex-number-multiplication](https://github.com/Kishan4237/DSA---Practice/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Kishan4237/DSA---Practice/tree/master/0553-optimal-division) |
+| [0593-valid-square](https://github.com/Kishan4237/DSA---Practice/tree/master/0593-valid-square) |
 | [0633-sum-of-square-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0728-self-dividing-numbers) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Kishan4237/DSA---Practice/tree/master/1837-sum-of-digits-in-base-k) |
@@ -147,4 +148,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kishan4237/DSA---Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Kishan4237/DSA---Practice/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
