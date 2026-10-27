@@ -11,6 +11,7 @@
 | [0396-rotate-function](https://github.com/Kishan4237/DSA---Practice/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kishan4237/DSA---Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0477-total-hamming-distance](https://github.com/Kishan4237/DSA---Practice/tree/master/0477-total-hamming-distance) |
 | [0525-contiguous-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Kishan4237/DSA---Practice/tree/master/0553-optimal-division) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Kishan4237/DSA---Practice/tree/master/0338-counting-bits) |
+| [0477-total-hamming-distance](https://github.com/Kishan4237/DSA---Practice/tree/master/0477-total-hamming-distance) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -84,6 +86,7 @@
 | [0412-fizz-buzz](https://github.com/Kishan4237/DSA---Practice/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kishan4237/DSA---Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0477-total-hamming-distance](https://github.com/Kishan4237/DSA---Practice/tree/master/0477-total-hamming-distance) |
 | [0492-construct-the-rectangle](https://github.com/Kishan4237/DSA---Practice/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Kishan4237/DSA---Practice/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/Kishan4237/DSA---Practice/tree/master/0537-complex-number-multiplication) |
