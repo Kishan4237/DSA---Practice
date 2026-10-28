@@ -13,6 +13,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/Kishan4237/DSA---Practice/tree/master/0477-total-hamming-distance) |
 | [0525-contiguous-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/Kishan4237/DSA---Practice/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Kishan4237/DSA---Practice/tree/master/0553-optimal-division) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0525-contiguous-array) |
+| [0528-random-pick-with-weight](https://github.com/Kishan4237/DSA---Practice/tree/master/0528-random-pick-with-weight) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0477-total-hamming-distance](https://github.com/Kishan4237/DSA---Practice/tree/master/0477-total-hamming-distance) |
 | [0492-construct-the-rectangle](https://github.com/Kishan4237/DSA---Practice/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Kishan4237/DSA---Practice/tree/master/0507-perfect-number) |
+| [0528-random-pick-with-weight](https://github.com/Kishan4237/DSA---Practice/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/Kishan4237/DSA---Practice/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Kishan4237/DSA---Practice/tree/master/0553-optimal-division) |
@@ -124,6 +127,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0528-random-pick-with-weight](https://github.com/Kishan4237/DSA---Practice/tree/master/0528-random-pick-with-weight) |
 | [0633-sum-of-square-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kishan4237/DSA---Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -143,6 +147,7 @@
 |  |
 | ------- |
 | [0398-random-pick-index](https://github.com/Kishan4237/DSA---Practice/tree/master/0398-random-pick-index) |
+| [0528-random-pick-with-weight](https://github.com/Kishan4237/DSA---Practice/tree/master/0528-random-pick-with-weight) |
 ## Binary Indexed Tree
 |  |
 | ------- |
