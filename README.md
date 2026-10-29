@@ -43,6 +43,7 @@
 | [0856-score-of-parentheses](https://github.com/Kishan4237/DSA---Practice/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Kishan4237/DSA---Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2000-reverse-prefix-of-word](https://github.com/Kishan4237/DSA---Practice/tree/master/2000-reverse-prefix-of-word) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kishan4237/DSA---Practice/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Dynamic Programming
 |  |
@@ -76,6 +77,7 @@
 | [0165-compare-version-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0633-sum-of-square-numbers) |
+| [2000-reverse-prefix-of-word](https://github.com/Kishan4237/DSA---Practice/tree/master/2000-reverse-prefix-of-word) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kishan4237/DSA---Practice/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Math
 |  |
@@ -110,6 +112,7 @@
 | ------- |
 | [0856-score-of-parentheses](https://github.com/Kishan4237/DSA---Practice/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Kishan4237/DSA---Practice/tree/master/1021-remove-outermost-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/Kishan4237/DSA---Practice/tree/master/2000-reverse-prefix-of-word) |
 ## Bracket Sequences
 |  |
 | ------- |
