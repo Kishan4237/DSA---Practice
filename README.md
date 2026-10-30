@@ -16,6 +16,7 @@
 | [0528-random-pick-with-weight](https://github.com/Kishan4237/DSA---Practice/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Kishan4237/DSA---Practice/tree/master/0553-optimal-division) |
+| [0598-range-addition-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0598-range-addition-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kishan4237/DSA---Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -98,6 +99,7 @@
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Kishan4237/DSA---Practice/tree/master/0553-optimal-division) |
 | [0593-valid-square](https://github.com/Kishan4237/DSA---Practice/tree/master/0593-valid-square) |
+| [0598-range-addition-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0728-self-dividing-numbers) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Kishan4237/DSA---Practice/tree/master/1837-sum-of-digits-in-base-k) |
