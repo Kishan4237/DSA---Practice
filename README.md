@@ -54,6 +54,7 @@
 | [0338-counting-bits](https://github.com/Kishan4237/DSA---Practice/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Kishan4237/DSA---Practice/tree/master/0396-rotate-function) |
 | [0553-optimal-division](https://github.com/Kishan4237/DSA---Practice/tree/master/0553-optimal-division) |
+| [0837-new-21-game](https://github.com/Kishan4237/DSA---Practice/tree/master/0837-new-21-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0598-range-addition-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0728-self-dividing-numbers) |
+| [0837-new-21-game](https://github.com/Kishan4237/DSA---Practice/tree/master/0837-new-21-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Kishan4237/DSA---Practice/tree/master/1837-sum-of-digits-in-base-k) |
 ## Simulation
 |  |
@@ -165,4 +167,12 @@
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/Kishan4237/DSA---Practice/tree/master/0593-valid-square) |
+## Sliding Window
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/Kishan4237/DSA---Practice/tree/master/0837-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/Kishan4237/DSA---Practice/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
