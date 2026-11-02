@@ -17,6 +17,7 @@
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Kishan4237/DSA---Practice/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0598-range-addition-ii) |
+| [0781-rabbits-in-forest](https://github.com/Kishan4237/DSA---Practice/tree/master/0781-rabbits-in-forest) |
 | [0908-smallest-range-i](https://github.com/Kishan4237/DSA---Practice/tree/master/0908-smallest-range-i) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kishan4237/DSA---Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -29,6 +30,7 @@
 | [0398-random-pick-index](https://github.com/Kishan4237/DSA---Practice/tree/master/0398-random-pick-index) |
 | [0409-longest-palindrome](https://github.com/Kishan4237/DSA---Practice/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0525-contiguous-array) |
+| [0781-rabbits-in-forest](https://github.com/Kishan4237/DSA---Practice/tree/master/0781-rabbits-in-forest) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kishan4237/DSA---Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
@@ -71,6 +73,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/Kishan4237/DSA---Practice/tree/master/0409-longest-palindrome) |
+| [0781-rabbits-in-forest](https://github.com/Kishan4237/DSA---Practice/tree/master/0781-rabbits-in-forest) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kishan4237/DSA---Practice/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Two Pointers
@@ -104,6 +107,7 @@
 | [0598-range-addition-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0728-self-dividing-numbers) |
+| [0781-rabbits-in-forest](https://github.com/Kishan4237/DSA---Practice/tree/master/0781-rabbits-in-forest) |
 | [0837-new-21-game](https://github.com/Kishan4237/DSA---Practice/tree/master/0837-new-21-game) |
 | [0908-smallest-range-i](https://github.com/Kishan4237/DSA---Practice/tree/master/0908-smallest-range-i) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Kishan4237/DSA---Practice/tree/master/1837-sum-of-digits-in-base-k) |
