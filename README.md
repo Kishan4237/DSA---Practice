@@ -18,6 +18,7 @@
 | [0553-optimal-division](https://github.com/Kishan4237/DSA---Practice/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0598-range-addition-ii) |
 | [0781-rabbits-in-forest](https://github.com/Kishan4237/DSA---Practice/tree/master/0781-rabbits-in-forest) |
+| [0888-fair-candy-swap](https://github.com/Kishan4237/DSA---Practice/tree/master/0888-fair-candy-swap) |
 | [0908-smallest-range-i](https://github.com/Kishan4237/DSA---Practice/tree/master/0908-smallest-range-i) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kishan4237/DSA---Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -31,6 +32,7 @@
 | [0409-longest-palindrome](https://github.com/Kishan4237/DSA---Practice/tree/master/0409-longest-palindrome) |
 | [0525-contiguous-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0525-contiguous-array) |
 | [0781-rabbits-in-forest](https://github.com/Kishan4237/DSA---Practice/tree/master/0781-rabbits-in-forest) |
+| [0888-fair-candy-swap](https://github.com/Kishan4237/DSA---Practice/tree/master/0888-fair-candy-swap) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Kishan4237/DSA---Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## String
@@ -135,6 +137,7 @@
 | [0088-merge-sorted-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0088-merge-sorted-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
+| [0888-fair-candy-swap](https://github.com/Kishan4237/DSA---Practice/tree/master/0888-fair-candy-swap) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kishan4237/DSA---Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
@@ -142,6 +145,7 @@
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/Kishan4237/DSA---Practice/tree/master/0528-random-pick-with-weight) |
 | [0633-sum-of-square-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0633-sum-of-square-numbers) |
+| [0888-fair-candy-swap](https://github.com/Kishan4237/DSA---Practice/tree/master/0888-fair-candy-swap) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kishan4237/DSA---Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Heap (Priority Queue)
