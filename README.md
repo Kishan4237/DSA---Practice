@@ -46,6 +46,7 @@
 | [0412-fizz-buzz](https://github.com/Kishan4237/DSA---Practice/tree/master/0412-fizz-buzz) |
 | [0537-complex-number-multiplication](https://github.com/Kishan4237/DSA---Practice/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/Kishan4237/DSA---Practice/tree/master/0556-next-greater-element-iii) |
 | [0856-score-of-parentheses](https://github.com/Kishan4237/DSA---Practice/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Kishan4237/DSA---Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -84,6 +85,7 @@
 | [0088-merge-sorted-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0556-next-greater-element-iii](https://github.com/Kishan4237/DSA---Practice/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0633-sum-of-square-numbers) |
 | [2000-reverse-prefix-of-word](https://github.com/Kishan4237/DSA---Practice/tree/master/2000-reverse-prefix-of-word) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kishan4237/DSA---Practice/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -105,6 +107,7 @@
 | [0537-complex-number-multiplication](https://github.com/Kishan4237/DSA---Practice/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Kishan4237/DSA---Practice/tree/master/0553-optimal-division) |
+| [0556-next-greater-element-iii](https://github.com/Kishan4237/DSA---Practice/tree/master/0556-next-greater-element-iii) |
 | [0593-valid-square](https://github.com/Kishan4237/DSA---Practice/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0633-sum-of-square-numbers) |
