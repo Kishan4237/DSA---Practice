@@ -61,6 +61,7 @@
 | [0396-rotate-function](https://github.com/Kishan4237/DSA---Practice/tree/master/0396-rotate-function) |
 | [0553-optimal-division](https://github.com/Kishan4237/DSA---Practice/tree/master/0553-optimal-division) |
 | [0837-new-21-game](https://github.com/Kishan4237/DSA---Practice/tree/master/0837-new-21-game) |
+| [1025-divisor-game](https://github.com/Kishan4237/DSA---Practice/tree/master/1025-divisor-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [0781-rabbits-in-forest](https://github.com/Kishan4237/DSA---Practice/tree/master/0781-rabbits-in-forest) |
 | [0837-new-21-game](https://github.com/Kishan4237/DSA---Practice/tree/master/0837-new-21-game) |
 | [0908-smallest-range-i](https://github.com/Kishan4237/DSA---Practice/tree/master/0908-smallest-range-i) |
+| [1025-divisor-game](https://github.com/Kishan4237/DSA---Practice/tree/master/1025-divisor-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Kishan4237/DSA---Practice/tree/master/1837-sum-of-digits-in-base-k) |
 ## Simulation
 |  |
@@ -188,4 +190,16 @@
 |  |
 | ------- |
 | [0837-new-21-game](https://github.com/Kishan4237/DSA---Practice/tree/master/0837-new-21-game) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Kishan4237/DSA---Practice/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Kishan4237/DSA---Practice/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Kishan4237/DSA---Practice/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
