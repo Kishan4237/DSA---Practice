@@ -18,6 +18,7 @@
 | [0553-optimal-division](https://github.com/Kishan4237/DSA---Practice/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0598-range-addition-ii) |
 | [0781-rabbits-in-forest](https://github.com/Kishan4237/DSA---Practice/tree/master/0781-rabbits-in-forest) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Kishan4237/DSA---Practice/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/Kishan4237/DSA---Practice/tree/master/0888-fair-candy-swap) |
 | [0908-smallest-range-i](https://github.com/Kishan4237/DSA---Practice/tree/master/0908-smallest-range-i) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -115,6 +116,7 @@
 | [0728-self-dividing-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0728-self-dividing-numbers) |
 | [0781-rabbits-in-forest](https://github.com/Kishan4237/DSA---Practice/tree/master/0781-rabbits-in-forest) |
 | [0837-new-21-game](https://github.com/Kishan4237/DSA---Practice/tree/master/0837-new-21-game) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Kishan4237/DSA---Practice/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Kishan4237/DSA---Practice/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/Kishan4237/DSA---Practice/tree/master/1025-divisor-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Kishan4237/DSA---Practice/tree/master/1837-sum-of-digits-in-base-k) |
@@ -182,6 +184,7 @@
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/Kishan4237/DSA---Practice/tree/master/0593-valid-square) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Kishan4237/DSA---Practice/tree/master/0883-projection-area-of-3d-shapes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -202,4 +205,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Kishan4237/DSA---Practice/tree/master/1025-divisor-game) |
+## Matrix
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/Kishan4237/DSA---Practice/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
