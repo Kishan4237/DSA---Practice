@@ -68,6 +68,7 @@
 | ------- |
 | [0338-counting-bits](https://github.com/Kishan4237/DSA---Practice/tree/master/0338-counting-bits) |
 | [0477-total-hamming-distance](https://github.com/Kishan4237/DSA---Practice/tree/master/0477-total-hamming-distance) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Kishan4237/DSA---Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0598-range-addition-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Kishan4237/DSA---Practice/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Kishan4237/DSA---Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0781-rabbits-in-forest](https://github.com/Kishan4237/DSA---Practice/tree/master/0781-rabbits-in-forest) |
 | [0837-new-21-game](https://github.com/Kishan4237/DSA---Practice/tree/master/0837-new-21-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Kishan4237/DSA---Practice/tree/master/0883-projection-area-of-3d-shapes) |
@@ -209,4 +211,8 @@
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/Kishan4237/DSA---Practice/tree/master/0883-projection-area-of-3d-shapes) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Kishan4237/DSA---Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
