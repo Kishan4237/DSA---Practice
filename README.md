@@ -20,6 +20,7 @@
 | [0781-rabbits-in-forest](https://github.com/Kishan4237/DSA---Practice/tree/master/0781-rabbits-in-forest) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Kishan4237/DSA---Practice/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/Kishan4237/DSA---Practice/tree/master/0888-fair-candy-swap) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Kishan4237/DSA---Practice/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Kishan4237/DSA---Practice/tree/master/0908-smallest-range-i) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Kishan4237/DSA---Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kishan4237/DSA---Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -119,6 +120,7 @@
 | [0781-rabbits-in-forest](https://github.com/Kishan4237/DSA---Practice/tree/master/0781-rabbits-in-forest) |
 | [0837-new-21-game](https://github.com/Kishan4237/DSA---Practice/tree/master/0837-new-21-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Kishan4237/DSA---Practice/tree/master/0883-projection-area-of-3d-shapes) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Kishan4237/DSA---Practice/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/Kishan4237/DSA---Practice/tree/master/0908-smallest-range-i) |
 | [1025-divisor-game](https://github.com/Kishan4237/DSA---Practice/tree/master/1025-divisor-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Kishan4237/DSA---Practice/tree/master/1837-sum-of-digits-in-base-k) |
@@ -187,6 +189,7 @@
 | ------- |
 | [0593-valid-square](https://github.com/Kishan4237/DSA---Practice/tree/master/0593-valid-square) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Kishan4237/DSA---Practice/tree/master/0883-projection-area-of-3d-shapes) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Kishan4237/DSA---Practice/tree/master/0892-surface-area-of-3d-shapes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -211,6 +214,7 @@
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/Kishan4237/DSA---Practice/tree/master/0883-projection-area-of-3d-shapes) |
+| [0892-surface-area-of-3d-shapes](https://github.com/Kishan4237/DSA---Practice/tree/master/0892-surface-area-of-3d-shapes) |
 ## Primality Test
 |  |
 | ------- |
