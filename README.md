@@ -17,6 +17,7 @@
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/Kishan4237/DSA---Practice/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0598-range-addition-ii) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Kishan4237/DSA---Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0781-rabbits-in-forest](https://github.com/Kishan4237/DSA---Practice/tree/master/0781-rabbits-in-forest) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Kishan4237/DSA---Practice/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/Kishan4237/DSA---Practice/tree/master/0888-fair-candy-swap) |
@@ -62,6 +63,7 @@
 | [0338-counting-bits](https://github.com/Kishan4237/DSA---Practice/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Kishan4237/DSA---Practice/tree/master/0396-rotate-function) |
 | [0553-optimal-division](https://github.com/Kishan4237/DSA---Practice/tree/master/0553-optimal-division) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Kishan4237/DSA---Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0837-new-21-game](https://github.com/Kishan4237/DSA---Practice/tree/master/0837-new-21-game) |
 | [1025-divisor-game](https://github.com/Kishan4237/DSA---Practice/tree/master/1025-divisor-game) |
 ## Bit Manipulation
@@ -80,6 +82,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0045-jump-game-ii) |
 | [0409-longest-palindrome](https://github.com/Kishan4237/DSA---Practice/tree/master/0409-longest-palindrome) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Kishan4237/DSA---Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0781-rabbits-in-forest](https://github.com/Kishan4237/DSA---Practice/tree/master/0781-rabbits-in-forest) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Kishan4237/DSA---Practice/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -148,6 +151,7 @@
 | [0088-merge-sorted-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0088-merge-sorted-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Kishan4237/DSA---Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0888-fair-candy-swap](https://github.com/Kishan4237/DSA---Practice/tree/master/0888-fair-candy-swap) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Kishan4237/DSA---Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -219,4 +223,8 @@
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Kishan4237/DSA---Practice/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Kishan4237/DSA---Practice/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
