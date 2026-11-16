@@ -12,6 +12,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kishan4237/DSA---Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/Kishan4237/DSA---Practice/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/Kishan4237/DSA---Practice/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/Kishan4237/DSA---Practice/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/Kishan4237/DSA---Practice/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/Kishan4237/DSA---Practice/tree/master/0539-minimum-time-difference) |
@@ -62,6 +63,7 @@
 | [0313-super-ugly-number](https://github.com/Kishan4237/DSA---Practice/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/Kishan4237/DSA---Practice/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/Kishan4237/DSA---Practice/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Kishan4237/DSA---Practice/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/Kishan4237/DSA---Practice/tree/master/0553-optimal-division) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kishan4237/DSA---Practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0837-new-21-game](https://github.com/Kishan4237/DSA---Practice/tree/master/0837-new-21-game) |
@@ -108,6 +110,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Kishan4237/DSA---Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Kishan4237/DSA---Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0477-total-hamming-distance](https://github.com/Kishan4237/DSA---Practice/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/Kishan4237/DSA---Practice/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Kishan4237/DSA---Practice/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/Kishan4237/DSA---Practice/tree/master/0507-perfect-number) |
 | [0528-random-pick-with-weight](https://github.com/Kishan4237/DSA---Practice/tree/master/0528-random-pick-with-weight) |
@@ -171,6 +174,7 @@
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/Kishan4237/DSA---Practice/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/Kishan4237/DSA---Practice/tree/master/0486-predict-the-winner) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -209,6 +213,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Kishan4237/DSA---Practice/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Kishan4237/DSA---Practice/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
@@ -227,4 +232,12 @@
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Kishan4237/DSA---Practice/tree/master/0646-maximum-length-of-pair-chain) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Kishan4237/DSA---Practice/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Kishan4237/DSA---Practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
